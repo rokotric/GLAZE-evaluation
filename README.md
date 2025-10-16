@@ -1,2 +1,11 @@
 # GLAZE-evaluation
-GLAZE evaluation using Image Quality Metrics such as LPIPS, supervised learning through CNN-InceptionV3, and FID
+GLAZE evaluation using Content Variant Metrics and Invariant Metrics
+
+Content Invariant Metrics include:
+- Frechet Inception Distance (FID)
+- Inception Score (IS)
+
+Content Invariance Metrics include:
+- LPIPS
+- SSIM, MSSIM
+- PSNR
