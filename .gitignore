@@ -2,3 +2,11 @@
 __pycache__
 dataset
 PerceptualSimilarity
+roko_style.h5
+roko_style_predictor.h5
+roko_style_glz-lora_glz.h5
+roko_style_ori-lora_glz.h5
+roko_style_ori-lora_ori.h5
+roko_style_predictor_glz-lora_glz.h5
+roko_style_predictor_ori-lora_glz.h5
+roko_style_predictor_ori-lora_ori.h5
