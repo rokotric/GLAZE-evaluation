@@ -10,9 +10,10 @@ Content Variant Metrics:
 - Frechet Inception Distance (FID)
 - Inception Score (IS)
 
-Supervised Learning:
+CNN Classification:
 - InceptionV3
 - InceptionResnetV2
+- ConvNextTiny
 
 ## About GLAZE
 Glaze is a system designed to protect human artists by disrupting style mimicry. At a high level, Glaze works by understanding the AI models that are training on human art, and using machine learning algorithms, computing a set of minimal changes to artworks, such that it appears unchanged to human eyes, but appears to AI models like a dramatically different art style.
@@ -20,4 +21,4 @@ Glaze is a system designed to protect human artists by disrupting style mimicry.
 more information [here](https://glaze.cs.uchicago.edu/what-is-glaze.html)
 
 ## About Dataset
-Dataset from [rokoism](https://www.instagram.com/rokoism/)
+Dataset from [rokoism](https://www.instagram.com/rokoism/), aka me😜.
