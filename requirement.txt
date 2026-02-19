@@ -1,3 +1,12 @@
+# FID & IS
+torch
+torchvision
+numpy
+scipy
+pillow
+tqdm
+
+# CNN trainer
 pandas
 seaborn
 matplotlib
