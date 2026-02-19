@@ -1,5 +1,5 @@
 # GLAZE-evaluation
-GLAZE evaluation using Image Quality Assessment
+GLAZE evaluation using GAN evaluation metrics and CNN feature extraction.
 
 Metrics:
 - LPIPS
