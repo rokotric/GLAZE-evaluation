@@ -1,12 +1,10 @@
 # GLAZE-evaluation
 GLAZE evaluation using Image Quality Assessment
 
-Content Invariance Metrics:
+Metrics:
 - LPIPS
 - SSIM
 - PSNR
-
-Content Variant Metrics:
 - Frechet Inception Distance (FID)
 - Inception Score (IS)
 
@@ -21,4 +19,4 @@ Glaze is a system designed to protect human artists by disrupting style mimicry.
 more information [here](https://glaze.cs.uchicago.edu/what-is-glaze.html)
 
 ## About Dataset
-Dataset from [rokoism](https://www.instagram.com/rokoism/), aka me😜.
+Dataset from [roko](https://www.instagram.com/rkk03ad/), aka me😜.
